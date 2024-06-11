@@ -1,0 +1,308 @@
+.container {
+
+    height: 800px;
+
+    width: 800px;
+
+    box-sizing: border-box;
+
+    border: 1px solid #000;
+
+    margin: 0 auto;
+
+}
+
+.row {
+
+    height: 100px;
+
+    width: 800px;
+
+    display: flex;
+
+}
+
+.black {
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+
+}
+
+.brown {
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #8b4513;
+
+}
+
+
+.brown1 {
+    background-image: url(ruck.jpg);
+
+    background-size: cover;
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #8b4513;
+
+}
+
+
+.black2 {
+    background-image: url(horse.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+
+}
+
+.brown3 {
+    background-image: url(bir.jpg);
+
+    background-size: cover;
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #8b4513;
+
+}
+
+.black4 {
+    background-image: url(q.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+
+}
+
+.brown5 {
+    background-image: url(king\ b.jpg);
+
+    background-size: cover;
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #8b4513;
+
+}
+
+.black6 {
+    background-image: url(bir.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+
+}
+
+.brown7 {
+    background-image: url(horse.jpg);
+
+    background-size: cover;
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #8b4513;
+
+}
+
+.black8 {
+    background-image: url(ruck.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+
+}
+
+.black-one {
+    background-image: url(1.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+
+}
+
+.brown-one {
+    background-image: url(1.jpg);
+
+    background-size: cover;
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #8b4513;
+
+
+}
+
+.brown-pawel {
+    background-image: url(pawel\ w.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+
+
+.black-pawel {
+    background-image: url(pawel\ w.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.blacka {
+    background-image: url(ruckw.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.brownb {
+    background-image: url(wh.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.blackc {
+    background-image: url(bishop.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.brownd {
+    background-image: url(king.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.blacke {
+    background-image: url(qw.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.brownf {
+    background-image: url(bishop.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.blackg {
+    background-image: url(wh.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
+
+.brownh {
+    background-image: url(ruckw.jpg);
+
+    background-size: cover;
+
+
+    height: 100px;
+
+    width: 100px;
+
+    background-color: #000;
+}
